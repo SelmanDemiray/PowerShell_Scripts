@@ -7,3 +7,4 @@ The "Remote Scripts" folder contains functional scripts to manage computers remo
 
 The "System Scripts" folder contains functional scripts to manage your local machine 
 
+The "Azure Scripts" folder contains functional scripts to manage and create resources in Azure
